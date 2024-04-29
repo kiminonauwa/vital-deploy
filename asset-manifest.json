@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vital-deploy/static/css/main.24672d8b.css",
+    "main.js": "/vital-deploy/static/js/main.982b2df2.js",
+    "index.html": "/vital-deploy/index.html",
+    "main.24672d8b.css.map": "/vital-deploy/static/css/main.24672d8b.css.map",
+    "main.982b2df2.js.map": "/vital-deploy/static/js/main.982b2df2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24672d8b.css",
+    "static/js/main.982b2df2.js"
+  ]
+}
