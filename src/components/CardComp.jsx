@@ -28,7 +28,7 @@ function CardComp() {
     return () => {
       firebase.database().ref('Sensor').off();
     };
-  }, []);
+  }, );
 
   return (
     <div className=' max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8 '>
